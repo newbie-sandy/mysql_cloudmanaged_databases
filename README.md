@@ -1,6 +1,6 @@
 # mysql_cloudmanaged_databases
 
-he setup process on both Azure and GCP.
+The setup process on both Azure and GCP.
 
 Your experience with MySQL Workbench, including the ERD creation and database interactions.
 
